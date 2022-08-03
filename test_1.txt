@@ -1,2 +1,3 @@
 test_string_1
 test_string_2_from_github_for_test_1.txt
+test_string_3_from_inzhener7-patch-1_github_for_test_1.txt
