@@ -1,2 +1,3 @@
 test_string_1
 test_string_2_from_github_for_test_1.txt
+test_string_3_branch_1_from_github_for_test-1.txt
